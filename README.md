@@ -11,6 +11,7 @@
 * 2014-10-28：碁峰．陳明照 - 網站滲透測試實務入門（[9789863473572](https://www.tenlong.com.tw/products/9789863473572)）
 * 2014-04-01：電子工業．Michael Sikorski - 惡意代碼分析實戰（[9787121224683](https://book.douban.com/subject/25868289/)）
 * 2013-01-01：電子工業．鍾晨鳴 - Web 前端黑客技術揭秘（[9787121192036](https://book.douban.com/subject/20451827/)）
+* 2012-11-20：機械工業．Patrick Engebretson - 滲透測試實踐指南（[9787111401414](https://book.douban.com/subject/20366359/)）
 
 
 
