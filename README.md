@@ -1,5 +1,9 @@
 # Security 學習筆記
 
+## 線上資訊
+
+臺灣資安市場地圖：[PDF Link](https://s.itho.me/cybsersec/2018/iThome_Taiwan_Cyberscape_JUL2018.pdf)
+
 ## 書籍
 
 已購入：
