@@ -8,6 +8,7 @@
 
 已購入：
 
+* 2018-07-01：電子工業．徐焱 - Web安全攻防：滲透測試實戰指南（[9787121342837](https://book.douban.com/subject/30280378/)）
 * 2017-02-01：人民郵電．Peter Kim - 黑客秘笈：滲透測試實用指南．第二版（[9787115442451](https://book.douban.com/subject/27075406/)）
 * 2016-11-13：碁峰．陳明照 - Google Hacking 精實技法（[9789864762392](https://www.tenlong.com.tw/products/9789864762392)）
 * 2016-11-01：電子工業．陳小兵 - 黑客攻防：實戰加密與解密（[9787121299858](https://book.douban.com/subject/26921711/)）
